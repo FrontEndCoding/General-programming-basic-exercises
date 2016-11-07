@@ -1,4 +1,4 @@
-# PHP - Wstęp do programowania - Ćwiczenia
+# Wstęp do programowania - Ćwiczenia
 
 ## Jak rozwiązywać zadania?
 
